@@ -1,0 +1,4 @@
+﻿  Funciones.cpp
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF1\P3\Funciones C++\Funciones C++\Funciones.cpp(52,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF1\P3\Funciones C++\Funciones C++\Funciones.cpp(167,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Funciones C++.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\M16\UF1\P3\Funciones C++\x64\Debug\Funciones C++.exe
