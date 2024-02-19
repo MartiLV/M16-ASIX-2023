@@ -1,4 +1,0 @@
-﻿  P3 - BlackJack.cpp
-D:\OneDrive - Centre d'Estudis Monlau\M16\UF2\P1\P3 - BlackJack\P3 - BlackJack\P3 - BlackJack.cpp(57,22): warning C4553: "==": el resultado de la expresión no se usa. ¿Quiso decir "="?
-D:\OneDrive - Centre d'Estudis Monlau\M16\UF2\P1\P3 - BlackJack\P3 - BlackJack\P3 - BlackJack.cpp(128,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
-  P3 - BlackJack.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\M16\UF2\P1\P3 - BlackJack\x64\Debug\P3 - BlackJack.exe
