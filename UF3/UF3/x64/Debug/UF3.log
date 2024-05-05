@@ -1,0 +1,3 @@
+﻿  Main.cpp
+D:\OneDrive - Centre d'Estudis Monlau\M16\UF3\UF3\UF3\Main.cpp(34,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  UF3.vcxproj -> D:\OneDrive - Centre d'Estudis Monlau\M16\UF3\UF3\x64\Debug\UF3.exe
